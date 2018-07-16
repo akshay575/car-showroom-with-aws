@@ -1,0 +1,15 @@
+.dashboard {
+    margin-top: 2rem;
+}
+
+.dashboard .row {
+    margin-bottom: 2rem;
+}
+
+.dashboard .row .col-4 {
+    margin-bottom: 2rem;
+}
+
+.add-item {
+    width: 18rem;
+}

@@ -1,3 +1,9 @@
+# Description
+
+The project 'Online CarShowoom' connects to AWS RDS MySQL database to fetch the car information saved in the table. It also enables the logged in user to add new car/item to database. The car images are uploaded to AWS S3 bucket.
+
+The users are preconfigured in another SQL table in AWS MySQL database.
+
 # CarShowroomWase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0-beta.1.
