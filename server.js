@@ -20,7 +20,7 @@ app.use('/api', api);
 
 app.use(express.static(path.join(__dirname, 'dist')));
 
-var port = process.env.PORT || 4100;
+var port = process.env.PORT || 4200;
 
 app.listen(port, () => {
     console.log('Server running on port: ', port)

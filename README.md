@@ -20,6 +20,14 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
+## Install node dependencies
+
+Run `npm install` to install any required node dependencies.
+
+## Starting the application
+
+Run `npm start` to run the application and navigate to `http://localhost:4200/` in browser.
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
